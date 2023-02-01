@@ -1,1 +1,1 @@
-메모장
+// 자바 스크립트에서 링크 이동하는거 1. document.location='home1.html'
