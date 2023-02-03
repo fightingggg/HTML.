@@ -1,0 +1,15 @@
+css
+
+
+
+Semantic tags               3byte 
+- <header>                  1 byte: red(0xff)
+- <footer>                  2 byte: green(0xff)
+- <section>                 3 byte : blue(0xff)
+- <article>
+- <nav>                     .css('background-color' , 'white');
+- <aside>                   .css('background-color' , #ffffff); 
+- <main>                    .css('color', #000000);
+- <figure>
+- <figcatpion>
+- <summary> 1
